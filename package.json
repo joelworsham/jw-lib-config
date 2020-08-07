@@ -1,0 +1,16 @@
+{
+  "name": "jw-lib-config",
+  "version": "1.0.0",
+  "description": "Service for getting and using app configuration.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelworsham/jw-lib-config.git"
+  },
+  "author": "joelworsham@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelworsham/jw-lib-config/issues"
+  },
+  "homepage": "https://github.com/joelworsham/jw-lib-config#readme"
+}
